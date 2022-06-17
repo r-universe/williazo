@@ -1,0 +1,13 @@
+[
+  {
+    "package": "mvGPS",
+    "oncran": true
+  },
+  {
+    "package": "tcensReg",
+    "oncran": true
+  },
+  {
+    "package": "microbiomeDASim"
+  }
+]

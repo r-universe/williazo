@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mvGPS"]
+	path = mvGPS
+	url = https://github.com/williazo/mvgps
+	shallow = true
+	registered = true
+[submodule "tcensReg"]
+	path = tcensReg
+	url = https://github.com/williazo/tcensreg
+	shallow = true
+	registered = true
+[submodule "microbiomeDASim"]
+	path = microbiomeDASim
+	url = https://github.com/williazo/microbiomedasim
+	shallow = true
+	registered = true
