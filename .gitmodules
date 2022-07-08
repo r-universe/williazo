@@ -8,11 +8,6 @@
 	url = https://github.com/williazo/mvgps
 	shallow = true
 	registered = true
-[submodule "tcensReg"]
-	path = tcensReg
-	url = https://github.com/williazo/tcensreg
-	shallow = true
-	registered = true
 [submodule "microbiomeDASim"]
 	path = microbiomeDASim
 	url = https://github.com/williazo/microbiomedasim

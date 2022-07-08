@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "tcensReg",
-    "oncran": true
-  },
-  {
     "package": "microbiomeDASim"
   }
 ]
