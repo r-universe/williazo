@@ -8,8 +8,3 @@
 	url = https://github.com/williazo/mvgps
 	shallow = true
 	registered = true
-[submodule "microbiomeDASim"]
-	path = microbiomeDASim
-	url = https://github.com/williazo/microbiomedasim
-	shallow = true
-	registered = true
