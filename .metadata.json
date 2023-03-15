@@ -1,9 +1,9 @@
 [
   {
-    "package": "mvGPS",
-    "oncran": true
+    "package": "microbiomeDASim"
   },
   {
-    "package": "microbiomeDASim"
+    "package": "mvGPS",
+    "oncran": true
   }
 ]
