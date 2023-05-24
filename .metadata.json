@@ -1,9 +1,0 @@
-[
-  {
-    "package": "microbiomeDASim"
-  },
-  {
-    "package": "mvGPS",
-    "oncran": true
-  }
-]
