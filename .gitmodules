@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "microbiomeDASim"]
 	path = microbiomeDASim
 	url = https://github.com/williazo/microbiomedasim
-	shallow = true
-	registered = true
 [submodule "mvGPS"]
 	path = mvGPS
 	url = https://github.com/williazo/mvgps
-	shallow = true
-	registered = true
